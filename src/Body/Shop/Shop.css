@@ -1,0 +1,30 @@
+  
+  @media (max-width: 767.98px) {
+    .border-sm-start-none {
+      border-left: none !important;
+    }
+  }
+
+  .shop-card{
+    background-color: #424242;
+  }
+
+  .shop-btn{
+    background-color: white !important;
+    color: black !important;
+  }
+
+  .shop-btn:hover{
+    background-color: black !important;
+    color: white !important;
+  }
+
+  .shop-list{
+    background-color:  #424242;
+    color: white;
+  }
+
+  .shop-list:hover{
+    background-color: white;
+    color: black;
+  }

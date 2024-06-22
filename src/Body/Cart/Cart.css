@@ -1,0 +1,7 @@
+.cart-total{
+  height: 300px;
+  display: inline-block;
+  background-color: black;
+  position:sticky; 
+  top: 0;
+}

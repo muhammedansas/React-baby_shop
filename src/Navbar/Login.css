@@ -1,0 +1,14 @@
+.log-in{
+  width: 90px ;
+  height: 40px;
+}
+
+.log-in:hover{
+  background-color: #424242;
+    color: rgb(255, 0, 0);
+}
+
+.login-main{
+  backdrop-filter: blur(10px);
+  background-color: red;
+}

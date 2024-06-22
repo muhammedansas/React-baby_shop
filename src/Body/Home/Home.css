@@ -1,0 +1,13 @@
+.home-top{
+    color: white;
+    margin-left: 600px;
+    margin-bottom: 300px;
+}
+.home-btn{
+    margin-left: 370px;
+    margin-top: 60px;
+}
+.home-btn:hover{
+    background-color: #424242;
+    color: white;
+}

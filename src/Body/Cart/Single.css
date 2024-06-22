@@ -1,0 +1,26 @@
+.single-card{
+    background-color: #424242;
+}
+/* @media screen and (max-width: 786px){
+    .single-img{
+        width: 150px !important;
+        height: 150px !important;
+        margin-top: 140px
+    }
+
+    
+
+    
+}
+
+@media screen and (max-width: 370px){
+    .single-img{
+        width: 50px !important;
+        height: 50px !important;
+        margin-top: 140px
+    }
+
+    
+
+    
+} */

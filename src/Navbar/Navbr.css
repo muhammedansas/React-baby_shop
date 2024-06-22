@@ -1,0 +1,18 @@
+.nav-main{
+    background-color: #424242;
+    color: white;
+    position: relative;
+    
+}
+.nav-color{
+    color: white;
+}
+.search-icon:hover{
+    background-color: white;
+    color: black;
+}
+
+.navbar-list:hover{
+    background-color: #424242;
+    color: white;
+}
